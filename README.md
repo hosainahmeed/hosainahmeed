@@ -26,4 +26,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=your-username&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
-![Manik Sarker's Graph](https://github-readme-activity-graph.vercel.app/graph?username=maniksarker25&custom_title=Manik-Sarker's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
