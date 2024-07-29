@@ -1,17 +1,6 @@
 <div align="center">
   <img height="150" src="https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif" alt="Coding Animation" />
 </div>
-<div align="center">
-  <a href="https://www.linkedin.com/in/hosain~ahmed/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
-  <a href="https://www.facebook.com/your-profile">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
-  </a>
-  <a href="https://www.instagram.com/your-profile">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
-  </a>
-</div>
 
 <h1 align="center">Hey there 👋, my name is Hosain...</h1>
 <h3 align="left">👩‍💻 About Me</h3>
@@ -37,3 +26,4 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=your-username&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
+![Manik Sarker's Graph](https://github-readme-activity-graph.vercel.app/graph?username=maniksarker25&custom_title=Manik-Sarker's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
