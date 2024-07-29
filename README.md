@@ -9,7 +9,7 @@
 <p align="left">💻 Currently, I'm focused on mastering the fundamentals of web development, including HTML, CSS, and JavaScript. Additionally, I'm exploring cutting-edge frameworks like React.js to expand my toolkit and enhance my capabilities.</p>
 <p align="left">🌟 Beyond technical proficiency, I understand the importance of continuous learning and staying abreast of industry trends. I actively seek out opportunities to collaborate, learn from others, and contribute to the vibrant developer community.</p>
 <p align="left">🤝 Let's connect and explore how we can collaborate, share insights, and inspire one another in the exciting world of web development!</p>
-<h1 align="left">Expert in</h1>
+<h1 align="left">Comfortable with [ Frontend ]</h1>
 <div align="left">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
@@ -21,8 +21,4 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</div>
-<h3 align="left">🔥 My Stats :</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
