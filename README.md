@@ -62,8 +62,9 @@
 ## :chart_with_upwards_trend: Current Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hosainahmeed&show_icons=true&theme=radical)
+##
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hosainahmeed&layout=compact&theme=radical)
-
+##
 ![Hosain Ali Graph](https://github-readme-activity-graph.vercel.app/graph?username=hosainahmeed&custom_title=Hosain-Ali's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ffa337&line=ffa337&point=ffa337&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
