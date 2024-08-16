@@ -77,9 +77,9 @@
 
 </div>
 
+
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=hosainahmeed&show_icons=true&theme=radical" alt="GitHub Stats" />
-<br />
+
 <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosainahmeed&layout=compact&theme=radical" alt="Top Languages" />
 </div>
