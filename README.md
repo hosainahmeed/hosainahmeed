@@ -60,9 +60,22 @@
 </div>
 
 ## :chart_with_upwards_trend: Current Stats
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=hosainahmeed&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
+
+<div align="center">
+ <picture align = "left">
+    <source srcset="https://github-readme-stats.vercel.app/api?username=hosainahmeed&show_icons=true&hide_border=true" media="(prefers-color-scheme: light)" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hosainahmeed&show_icons=true&hide_border=true&theme=github_dark" width="49%" />
+  </picture>
+<picture align = "left">
+    <source srcset="https://streak-stats.demolab.com/?user=hosainahmeed&hide_border=true" media="(prefers-color-scheme: light)" width="47%" />
+    <img src="https://streak-stats.demolab.com/?user=hosainahmeed&hide_border=true&theme=dark&background=00000000" width="47%" />
+</picture>
+  <picture align = "right">
+    <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width = "98%">
+    <img src="images/profile-custom-night-view.svg" width = "98%"/>
+  </picture>
+
+</div>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=hosainahmeed&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -73,7 +86,5 @@
 <br />
 
 ![Hosain Ali Graph](https://github-readme-activity-graph.vercel.app/graph?username=hosainahmeed&custom_title=Hosain-Ali's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ffa337&line=ffa337&point=ffa337&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
 
 
