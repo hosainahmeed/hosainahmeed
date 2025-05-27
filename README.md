@@ -15,7 +15,7 @@
 
 
 
-<h1 align="center">Hey there 👋, my name is Hosain...</h1>
+<h1 align="center">Hey there 👋, my name is Hosain</h1>
 <h1 align="left">👩‍💻 About Me</h1>
 <p align="left">👋 Hello, I'm Hosain, a passionate Computer Science student at Jessore Polytechnic Institute. My enthusiasm for coding and web development drives me to constantly seek new challenges and opportunities for growth. As a student, I'm dedicated to honing my skills and becoming the best web developer I can be.</p>
 <p align="left">🚀 My journey in the realm of coding began with a genuine love for technology and a desire to create impactful solutions. I thrive on the intricacies of programming languages and find joy in crafting elegant and efficient code.</p>
