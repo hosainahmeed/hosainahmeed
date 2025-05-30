@@ -1,6 +1,6 @@
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif" alt="Coding Animation" />
-</div>
+<!--  <div align="center"> -->
+<!--   <img height="150" src="https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif" alt="Coding Animation" /> -->
+<!-- </div> -->
 <div align="center">
   <a href="https://www.facebook.com/jiku.ahamed.3">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
