@@ -2,7 +2,7 @@
 <!-- <img height="150" src="https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif" alt="Coding Animation" /> -->
 <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBtZ2hqMWN1Y2NzaXVsOW5uZDd3ZDgxYTd1YmZ6NTg1bmk2ejQ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" alt="Coding Animation" />
 </div> 
-<div align="center">
+<div align="center"> 
   <a href="https://www.facebook.com/jiku.ahamed.3">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
