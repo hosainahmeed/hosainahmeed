@@ -68,8 +68,8 @@
   </picture>
 <picture align = "left">
     <source srcset="https://streak-stats.demolab.com/?user=hosainahmeed&hide_border=true" media="(prefers-color-scheme: light)" width="47%" />
-    <img src="https://streak-stats.demolab.com/?user=hosainahmeed&hide_border=true&theme=dark&background=00000000&cache_seconds=0" width="47%" />
-    <!-- <img src="https://streak-stats.demolab.com/?user=hosainahmeed&hide_border=true&theme=dark&background=00000000" width="47%" /> -->
+    <!-- <img src="https://streak-stats.demolab.com/?user=hosainahmeed&hide_border=true&theme=dark&background=00000000&cache_seconds=0" width="47%" /> -->
+    <img src="https://streak-stats.demolab.com/?user=hosainahmeed&hide_border=true&theme=dark&background=00000000" width="47%" />
 </picture>
   <picture align = "right">
     <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width = "98%">
