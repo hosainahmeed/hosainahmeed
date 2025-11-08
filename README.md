@@ -54,17 +54,12 @@
   <h1>Tools</h1>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> 
   <!--<img src="https://img.shields.io/badge/Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" /> -->
 </div>
 
 ## :chart_with_upwards_trend: Current Stats
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=hosainahmeed&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
-
 <div align="center">
 <picture align = "left">
     <source srcset="https://github-readme-stats.vercel.app/api?username=hosainahmeed&show_icons=true&hide_border=true" media="(prefers-color-scheme: light)" width="49%" />
@@ -73,12 +68,7 @@
 <picture align = "left">
     <source srcset="https://streak-stats.demolab.com/?user=hosainahmeed&hide_border=true" media="(prefers-color-scheme: light)" width="47%" />
     <img src="https://streak-stats.demolab.com/?user=hosainahmeed&hide_border=true&theme=dark&background=00000000&cache_seconds=0" width="47%" />
-    <img src="https://streak-stats.demolab.com/?user=hosainahmeed&hide_border=true&theme=dark&background=00000000" width="47%" />
  </picture>
-<picture align = "right">
-    <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width = "98%">
-    <img src="images/profile-custom-night-view.svg" width = "98%"/>
-  </picture>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosainahmeed&layout=compact&theme=radical" alt="Top Languages" />
  </div>
 <br />
