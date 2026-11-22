@@ -70,13 +70,15 @@ I work across the full product lifecycle — interface implementation, applicati
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hosainahmeed&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&theme=github_dark&bg_color=00000000" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hosainahmeed&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&bg_color=00000000" alt="GitHub statistics" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hosainahmeed&theme=github-dark-blue&hide_border=true&background=00000000" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=hosainahmeed&theme=default&hide_border=true&background=00000000" alt="GitHub contribution streak" />
 </picture>
-&nbsp;
+
+<br /><br />
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hosainahmeed&layout=compact&hide_border=true&hide_title=true&langs_count=6&theme=github_dark&bg_color=00000000" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosainahmeed&layout=compact&hide_border=true&hide_title=true&langs_count=6&bg_color=00000000" alt="Most used languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hosainahmeed&theme=github-compact&hide_border=true&hide_title=true&area=true&bg_color=00000000" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hosainahmeed&theme=minimal&hide_border=true&hide_title=true&area=true&bg_color=00000000" alt="GitHub contribution activity graph" />
 </picture>
 
 </div>
