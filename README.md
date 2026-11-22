@@ -88,5 +88,5 @@ I work across the full product lifecycle — interface implementation, applicati
 ---
 
 <div align="center">
-  <sub>Open to conversations about frontend architecture, product engineering, and new opportunities — <a href="https://www.linkedin.com/in/hosain-ahmed/">connect on LinkedIn</a>.</sub>
+  <sub>Open to conversations about frontend architecture, product engineering, and new opportunities — <a href="https://www.linkedin.com/in/hosain-dev">connect on LinkedIn</a>.</sub>
 </div>
