@@ -7,7 +7,7 @@
 <p>I design and build scalable web and mobile products from component architecture to production release.</p>
 
 <p>
-  <a href="https://www.linkedin.com/in/hosain-ahmed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hosain-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/hosainahmeed"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Based_in-Bangladesh-2EA043?style=flat" alt="Based in Bangladesh" />
 </p>
