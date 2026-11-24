@@ -4,7 +4,7 @@
 
 <p><strong>Frontend Engineer &nbsp;·&nbsp; React &nbsp;·&nbsp; React Native &nbsp;·&nbsp; TypeScript</strong></p>
 
-<p>I design and build scalable web and mobile products — from component architecture to production release.</p>
+<p>I design and build scalable web and mobile products from component architecture to production release.</p>
 
 <p>
   <a href="https://www.linkedin.com/in/hosain-ahmed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
